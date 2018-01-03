@@ -25,8 +25,8 @@ PubSubClient client(espClient);
 AccelStepper axis1(1, STEPPIN1, DIRPIN1);
 
 // wifi
-const char* ssid = "thefutureisnow";
-const char* password = "thefutureiswow";
+const char* ssid = "ssidssid";
+const char* password = "passwordpassword";
 const char* mqtt_server = "192.168.2.100"; // raspberry
 
 // mqtt
